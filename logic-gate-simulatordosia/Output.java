@@ -64,7 +64,7 @@ public class Output extends CircuitComponents{
 	}
 	@Override
 	public boolean processGate(boolean in1, boolean in2) {
-		// TODO Auto-generated method stub
+
 		return false;
 	}
 	
